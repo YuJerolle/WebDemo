@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.text{
+	color:#FF0004;
+	font-size: 50px;
+	text-decoration: none;
+	z-index: 100;
+	margin-top: 100px;
+}
+
+.A{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border: 0px solid black;
+	background-image: url(IMG_0471.gif);
+	background-size: 100%;
+	opacity: 0.88;
+	background-repeat: no-repeat;
+	z-index: 1;
+}
